@@ -5,10 +5,10 @@ package chi
 import (
 	"net/http"
 
+	"github.com/ajay-ghs/luraJailbreak/config"
+	"github.com/ajay-ghs/luraJailbreak/proxy"
+	"github.com/ajay-ghs/luraJailbreak/router/mux"
 	"github.com/go-chi/chi/v5"
-	"github.com/luraproject/lura/v2/config"
-	"github.com/luraproject/lura/v2/proxy"
-	"github.com/luraproject/lura/v2/router/mux"
 	"golang.org/x/text/cases"
 	"golang.org/x/text/language"
 )

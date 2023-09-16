@@ -11,7 +11,7 @@ import (
 
 	"github.com/gin-gonic/gin"
 
-	"github.com/luraproject/lura/v2/logging"
+	"github.com/ajay-ghs/luraJailbreak/logging"
 )
 
 func TestDebugHandler(t *testing.T) {

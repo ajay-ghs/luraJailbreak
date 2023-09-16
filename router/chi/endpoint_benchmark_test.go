@@ -12,9 +12,9 @@ import (
 	"testing"
 	"time"
 
+	"github.com/ajay-ghs/luraJailbreak/config"
+	"github.com/ajay-ghs/luraJailbreak/proxy"
 	"github.com/go-chi/chi/v5"
-	"github.com/luraproject/lura/v2/config"
-	"github.com/luraproject/lura/v2/proxy"
 )
 
 func BenchmarkEndpointHandler_ko(b *testing.B) {

@@ -9,7 +9,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/luraproject/lura/v2/logging"
+	"github.com/ajay-ghs/luraJailbreak/logging"
 )
 
 func TestNewLoggingMiddleware_multipleNext(t *testing.T) {

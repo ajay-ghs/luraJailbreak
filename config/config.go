@@ -18,7 +18,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/luraproject/lura/v2/encoding"
+	"github.com/ajay-ghs/luraJailbreak/encoding"
 	"golang.org/x/text/cases"
 	"golang.org/x/text/language"
 )

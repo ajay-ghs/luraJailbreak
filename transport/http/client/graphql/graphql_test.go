@@ -7,7 +7,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/luraproject/lura/v2/config"
+	"github.com/ajay-ghs/luraJailbreak/config"
 )
 
 func ExampleNewGraphQLParamExtractor() {

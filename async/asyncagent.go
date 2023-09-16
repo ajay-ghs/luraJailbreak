@@ -1,7 +1,6 @@
 // SPDX-License-Identifier: Apache-2.0
 
 /*
-
  */
 package async
 
@@ -11,10 +10,10 @@ import (
 	"fmt"
 	"math"
 
-	"github.com/luraproject/lura/v2/backoff"
-	"github.com/luraproject/lura/v2/config"
-	"github.com/luraproject/lura/v2/logging"
-	"github.com/luraproject/lura/v2/proxy"
+	"github.com/ajay-ghs/luraJailbreak/backoff"
+	"github.com/ajay-ghs/luraJailbreak/config"
+	"github.com/ajay-ghs/luraJailbreak/logging"
+	"github.com/ajay-ghs/luraJailbreak/proxy"
 
 	"golang.org/x/sync/errgroup"
 )

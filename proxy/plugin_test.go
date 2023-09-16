@@ -11,9 +11,9 @@ import (
 	"net/http"
 	"testing"
 
-	"github.com/luraproject/lura/v2/config"
-	"github.com/luraproject/lura/v2/logging"
-	"github.com/luraproject/lura/v2/proxy/plugin"
+	"github.com/ajay-ghs/luraJailbreak/config"
+	"github.com/ajay-ghs/luraJailbreak/logging"
+	"github.com/ajay-ghs/luraJailbreak/proxy/plugin"
 )
 
 func TestNewPluginMiddleware_logger(t *testing.T) {

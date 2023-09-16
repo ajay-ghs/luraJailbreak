@@ -6,8 +6,8 @@ import (
 	"context"
 	"testing"
 
-	"github.com/luraproject/lura/v2/config"
-	"github.com/luraproject/lura/v2/logging"
+	"github.com/ajay-ghs/luraJailbreak/config"
+	"github.com/ajay-ghs/luraJailbreak/logging"
 )
 
 func TestNewFilterHeadersMiddleware(t *testing.T) {

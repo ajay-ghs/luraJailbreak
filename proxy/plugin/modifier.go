@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: Apache-2.0
 
 /*
-	Package plugin provides tools for loading and registering proxy plugins
+Package plugin provides tools for loading and registering proxy plugins
 */
 package plugin
 
@@ -10,9 +10,9 @@ import (
 	"plugin"
 	"strings"
 
-	"github.com/luraproject/lura/v2/logging"
-	luraplugin "github.com/luraproject/lura/v2/plugin"
-	"github.com/luraproject/lura/v2/register"
+	"github.com/ajay-ghs/luraJailbreak/logging"
+	luraplugin "github.com/ajay-ghs/luraJailbreak/plugin"
+	"github.com/ajay-ghs/luraJailbreak/register"
 )
 
 const (

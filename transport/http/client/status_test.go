@@ -9,7 +9,7 @@ import (
 	"net/http"
 	"testing"
 
-	"github.com/luraproject/lura/v2/config"
+	"github.com/ajay-ghs/luraJailbreak/config"
 )
 
 func TestDetailedHTTPStatusHandler(t *testing.T) {

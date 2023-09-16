@@ -17,9 +17,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/luraproject/lura/v2/config"
-	"github.com/luraproject/lura/v2/core"
-	"github.com/luraproject/lura/v2/logging"
+	"github.com/ajay-ghs/luraJailbreak/config"
+	"github.com/ajay-ghs/luraJailbreak/core"
+	"github.com/ajay-ghs/luraJailbreak/logging"
 )
 
 // ToHTTPError translates an error into a HTTP status code

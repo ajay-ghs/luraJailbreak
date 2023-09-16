@@ -13,10 +13,10 @@ import (
 	"testing"
 	"time"
 
+	"github.com/ajay-ghs/luraJailbreak/config"
+	"github.com/ajay-ghs/luraJailbreak/encoding"
+	"github.com/ajay-ghs/luraJailbreak/proxy"
 	"github.com/gin-gonic/gin"
-	"github.com/luraproject/lura/v2/config"
-	"github.com/luraproject/lura/v2/encoding"
-	"github.com/luraproject/lura/v2/proxy"
 )
 
 func TestRender_Negotiated_ok(t *testing.T) {

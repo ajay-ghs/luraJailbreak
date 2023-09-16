@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: Apache-2.0
 
 /*
-	Package proxy provides proxy and proxy middleware interfaces and implementations.
+Package proxy provides proxy and proxy middleware interfaces and implementations.
 */
 package proxy
 
@@ -10,7 +10,7 @@ import (
 	"errors"
 	"io"
 
-	"github.com/luraproject/lura/v2/config"
+	"github.com/ajay-ghs/luraJailbreak/config"
 )
 
 // Namespace to be used in extra config
@@ -74,6 +74,7 @@ type BackendFactory func(remote *config.Backend) Proxy
 // exposing a proxy interface.
 //
 // Proxy middlewares can be stacked:
+//
 //	var p Proxy
 //	p := EmptyMiddleware(NoopProxy)
 //	response, err := p(ctx, r)

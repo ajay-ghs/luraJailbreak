@@ -9,9 +9,9 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/luraproject/lura/v2/config"
-	"github.com/luraproject/lura/v2/encoding"
-	"github.com/luraproject/lura/v2/transport/http/client"
+	"github.com/ajay-ghs/luraJailbreak/config"
+	"github.com/ajay-ghs/luraJailbreak/encoding"
+	"github.com/ajay-ghs/luraJailbreak/transport/http/client"
 )
 
 var httpProxy = CustomHTTPProxyFactory(client.NewHTTPClient)

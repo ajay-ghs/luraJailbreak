@@ -10,11 +10,11 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/luraproject/lura/v2/config"
-	"github.com/luraproject/lura/v2/logging"
-	"github.com/luraproject/lura/v2/proxy"
-	"github.com/luraproject/lura/v2/router"
-	"github.com/luraproject/lura/v2/transport/http/server"
+	"github.com/ajay-ghs/luraJailbreak/config"
+	"github.com/ajay-ghs/luraJailbreak/logging"
+	"github.com/ajay-ghs/luraJailbreak/proxy"
+	"github.com/ajay-ghs/luraJailbreak/router"
+	"github.com/ajay-ghs/luraJailbreak/transport/http/server"
 )
 
 // DefaultDebugPattern is the default pattern used to define the debug endpoint

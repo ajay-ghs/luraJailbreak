@@ -7,9 +7,9 @@ import (
 	"fmt"
 	"strings"
 
+	"github.com/ajay-ghs/luraJailbreak/config"
+	"github.com/ajay-ghs/luraJailbreak/logging"
 	"github.com/krakendio/flatmap/tree"
-	"github.com/luraproject/lura/v2/config"
-	"github.com/luraproject/lura/v2/logging"
 )
 
 // EntityFormatter formats the response data

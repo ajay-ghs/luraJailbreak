@@ -24,15 +24,15 @@ import (
 	ginlib "github.com/gin-gonic/gin"
 	"github.com/urfave/negroni/v2"
 
-	"github.com/luraproject/lura/v2/config"
-	"github.com/luraproject/lura/v2/logging"
-	"github.com/luraproject/lura/v2/proxy"
-	"github.com/luraproject/lura/v2/router/chi"
-	"github.com/luraproject/lura/v2/router/gin"
-	"github.com/luraproject/lura/v2/router/gorilla"
-	"github.com/luraproject/lura/v2/router/httptreemux"
-	luranegroni "github.com/luraproject/lura/v2/router/negroni"
-	"github.com/luraproject/lura/v2/transport/http/server"
+	"github.com/ajay-ghs/luraJailbreak/config"
+	"github.com/ajay-ghs/luraJailbreak/logging"
+	"github.com/ajay-ghs/luraJailbreak/proxy"
+	"github.com/ajay-ghs/luraJailbreak/router/chi"
+	"github.com/ajay-ghs/luraJailbreak/router/gin"
+	"github.com/ajay-ghs/luraJailbreak/router/gorilla"
+	"github.com/ajay-ghs/luraJailbreak/router/httptreemux"
+	luranegroni "github.com/ajay-ghs/luraJailbreak/router/negroni"
+	"github.com/ajay-ghs/luraJailbreak/transport/http/server"
 )
 
 func TestKrakenD_ginRouter(t *testing.T) {

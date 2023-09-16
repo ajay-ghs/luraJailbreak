@@ -1,4 +1,4 @@
-module github.com/luraproject/lura/v2
+module github.com/ajay-ghs/luraJailbreak
 
 go 1.17
 
