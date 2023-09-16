@@ -7,7 +7,7 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	"github.com/ajay-ghs/luraJailbreak/config"
+	"github.com/ajay-ghs/luraJailbreak/v2/config"
 	"github.com/gin-gonic/gin"
 )
 

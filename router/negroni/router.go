@@ -11,11 +11,11 @@ import (
 	gorilla "github.com/gorilla/mux"
 	"github.com/urfave/negroni/v2"
 
-	"github.com/ajay-ghs/luraJailbreak/logging"
-	"github.com/ajay-ghs/luraJailbreak/proxy"
-	"github.com/ajay-ghs/luraJailbreak/router"
-	luragorilla "github.com/ajay-ghs/luraJailbreak/router/gorilla"
-	"github.com/ajay-ghs/luraJailbreak/router/mux"
+	"github.com/ajay-ghs/luraJailbreak/v2/logging"
+	"github.com/ajay-ghs/luraJailbreak/v2/proxy"
+	"github.com/ajay-ghs/luraJailbreak/v2/router"
+	luragorilla "github.com/ajay-ghs/luraJailbreak/v2/router/gorilla"
+	"github.com/ajay-ghs/luraJailbreak/v2/router/mux"
 )
 
 // DefaultFactory returns a net/http mux router factory with the injected proxy factory and logger

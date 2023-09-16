@@ -10,11 +10,11 @@ import (
 
 	gorilla "github.com/gorilla/mux"
 
-	"github.com/ajay-ghs/luraJailbreak/logging"
-	"github.com/ajay-ghs/luraJailbreak/proxy"
-	"github.com/ajay-ghs/luraJailbreak/router"
-	"github.com/ajay-ghs/luraJailbreak/router/mux"
-	"github.com/ajay-ghs/luraJailbreak/transport/http/server"
+	"github.com/ajay-ghs/luraJailbreak/v2/logging"
+	"github.com/ajay-ghs/luraJailbreak/v2/proxy"
+	"github.com/ajay-ghs/luraJailbreak/v2/router"
+	"github.com/ajay-ghs/luraJailbreak/v2/router/mux"
+	"github.com/ajay-ghs/luraJailbreak/v2/transport/http/server"
 	"golang.org/x/text/cases"
 	"golang.org/x/text/language"
 )

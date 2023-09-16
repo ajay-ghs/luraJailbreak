@@ -14,10 +14,10 @@ import (
 	"sync"
 	"time"
 
-	"github.com/ajay-ghs/luraJailbreak/config"
-	"github.com/ajay-ghs/luraJailbreak/core"
-	"github.com/ajay-ghs/luraJailbreak/logging"
-	"github.com/ajay-ghs/luraJailbreak/transport/http/server"
+	"github.com/ajay-ghs/luraJailbreak/v2/config"
+	"github.com/ajay-ghs/luraJailbreak/v2/core"
+	"github.com/ajay-ghs/luraJailbreak/v2/logging"
+	"github.com/ajay-ghs/luraJailbreak/v2/transport/http/server"
 	"github.com/gin-gonic/gin"
 )
 

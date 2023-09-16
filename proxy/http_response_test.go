@@ -10,7 +10,7 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	"github.com/ajay-ghs/luraJailbreak/encoding"
+	"github.com/ajay-ghs/luraJailbreak/v2/encoding"
 )
 
 func TestNopHTTPResponseParser(t *testing.T) {

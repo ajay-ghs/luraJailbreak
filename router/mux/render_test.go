@@ -12,9 +12,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ajay-ghs/luraJailbreak/config"
-	"github.com/ajay-ghs/luraJailbreak/encoding"
-	"github.com/ajay-ghs/luraJailbreak/proxy"
+	"github.com/ajay-ghs/luraJailbreak/v2/config"
+	"github.com/ajay-ghs/luraJailbreak/v2/encoding"
+	"github.com/ajay-ghs/luraJailbreak/v2/proxy"
 )
 
 func TestRender_unknown(t *testing.T) {

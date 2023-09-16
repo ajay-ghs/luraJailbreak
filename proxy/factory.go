@@ -3,9 +3,9 @@
 package proxy
 
 import (
-	"github.com/ajay-ghs/luraJailbreak/config"
-	"github.com/ajay-ghs/luraJailbreak/logging"
-	"github.com/ajay-ghs/luraJailbreak/sd"
+	"github.com/ajay-ghs/luraJailbreak/v2/config"
+	"github.com/ajay-ghs/luraJailbreak/v2/logging"
+	"github.com/ajay-ghs/luraJailbreak/v2/sd"
 )
 
 // Factory creates proxies based on the received endpoint configuration.

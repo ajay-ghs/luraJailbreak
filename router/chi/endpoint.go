@@ -5,9 +5,9 @@ package chi
 import (
 	"net/http"
 
-	"github.com/ajay-ghs/luraJailbreak/config"
-	"github.com/ajay-ghs/luraJailbreak/proxy"
-	"github.com/ajay-ghs/luraJailbreak/router/mux"
+	"github.com/ajay-ghs/luraJailbreak/v2/config"
+	"github.com/ajay-ghs/luraJailbreak/v2/proxy"
+	"github.com/ajay-ghs/luraJailbreak/v2/router/mux"
 	"github.com/go-chi/chi/v5"
 	"golang.org/x/text/cases"
 	"golang.org/x/text/language"

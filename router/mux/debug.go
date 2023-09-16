@@ -7,7 +7,7 @@ import (
 	"io"
 	"net/http"
 
-	"github.com/ajay-ghs/luraJailbreak/logging"
+	"github.com/ajay-ghs/luraJailbreak/v2/logging"
 )
 
 // DebugHandler creates a dummy handler function, useful for quick integration tests

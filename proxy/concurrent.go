@@ -7,7 +7,7 @@ import (
 	"errors"
 	"time"
 
-	"github.com/ajay-ghs/luraJailbreak/config"
+	"github.com/ajay-ghs/luraJailbreak/v2/config"
 )
 
 // NewConcurrentMiddleware creates a proxy middleware that enables sending several requests concurrently

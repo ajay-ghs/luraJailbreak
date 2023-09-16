@@ -6,8 +6,8 @@ import (
 	"context"
 	"net/http"
 
-	"github.com/ajay-ghs/luraJailbreak/config"
-	"github.com/ajay-ghs/luraJailbreak/logging"
+	"github.com/ajay-ghs/luraJailbreak/v2/config"
+	"github.com/ajay-ghs/luraJailbreak/v2/logging"
 )
 
 const Namespace = "github_com/devopsfaith/krakend/transport/http/server/handler"

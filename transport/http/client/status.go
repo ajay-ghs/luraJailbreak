@@ -9,7 +9,7 @@ import (
 	"io"
 	"net/http"
 
-	"github.com/ajay-ghs/luraJailbreak/config"
+	"github.com/ajay-ghs/luraJailbreak/v2/config"
 )
 
 // Namespace to be used in extra config

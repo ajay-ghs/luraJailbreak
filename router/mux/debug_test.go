@@ -9,7 +9,7 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	"github.com/ajay-ghs/luraJailbreak/logging"
+	"github.com/ajay-ghs/luraJailbreak/v2/logging"
 )
 
 func TestDebugHandler(t *testing.T) {

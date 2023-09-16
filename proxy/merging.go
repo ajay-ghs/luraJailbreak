@@ -10,8 +10,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/ajay-ghs/luraJailbreak/config"
-	"github.com/ajay-ghs/luraJailbreak/logging"
+	"github.com/ajay-ghs/luraJailbreak/v2/config"
+	"github.com/ajay-ghs/luraJailbreak/v2/logging"
 )
 
 // NewMergeDataMiddleware creates proxy middleware for merging responses from several backends

@@ -3,7 +3,7 @@
 package proxy
 
 import (
-	"github.com/ajay-ghs/luraJailbreak/register"
+	"github.com/ajay-ghs/luraJailbreak/v2/register"
 )
 
 func NewRegister() *Register {

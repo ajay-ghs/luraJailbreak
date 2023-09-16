@@ -8,9 +8,9 @@ import (
 	"io"
 	"net/url"
 
-	"github.com/ajay-ghs/luraJailbreak/config"
-	"github.com/ajay-ghs/luraJailbreak/logging"
-	"github.com/ajay-ghs/luraJailbreak/proxy/plugin"
+	"github.com/ajay-ghs/luraJailbreak/v2/config"
+	"github.com/ajay-ghs/luraJailbreak/v2/logging"
+	"github.com/ajay-ghs/luraJailbreak/v2/proxy/plugin"
 )
 
 // NewPluginMiddleware returns an endpoint middleware wrapped (if required) with the plugin middleware.

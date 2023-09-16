@@ -7,7 +7,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/ajay-ghs/luraJailbreak/logging"
+	"github.com/ajay-ghs/luraJailbreak/v2/logging"
 )
 
 // NewLoggingMiddleware creates proxy middleware for logging requests and responses

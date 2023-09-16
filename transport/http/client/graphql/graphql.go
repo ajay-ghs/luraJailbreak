@@ -14,7 +14,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/ajay-ghs/luraJailbreak/config"
+	"github.com/ajay-ghs/luraJailbreak/v2/config"
 	"golang.org/x/text/cases"
 	"golang.org/x/text/language"
 )

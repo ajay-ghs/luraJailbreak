@@ -8,7 +8,7 @@ package sd
 import (
 	"math/rand"
 
-	"github.com/ajay-ghs/luraJailbreak/config"
+	"github.com/ajay-ghs/luraJailbreak/v2/config"
 )
 
 // Subscriber keeps the set of backend hosts up to date

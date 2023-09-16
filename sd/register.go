@@ -3,7 +3,7 @@
 package sd
 
 import (
-	"github.com/ajay-ghs/luraJailbreak/register"
+	"github.com/ajay-ghs/luraJailbreak/v2/register"
 )
 
 // GetRegister returns the package register

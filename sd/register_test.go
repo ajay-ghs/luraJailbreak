@@ -5,7 +5,7 @@ package sd
 import (
 	"testing"
 
-	"github.com/ajay-ghs/luraJailbreak/config"
+	"github.com/ajay-ghs/luraJailbreak/v2/config"
 )
 
 func TestGetRegister_Register_ok(t *testing.T) {

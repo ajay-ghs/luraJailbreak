@@ -12,8 +12,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/ajay-ghs/luraJailbreak/config"
-	"github.com/ajay-ghs/luraJailbreak/sd"
+	"github.com/ajay-ghs/luraJailbreak/v2/config"
+	"github.com/ajay-ghs/luraJailbreak/v2/sd"
 )
 
 // Namespace is the key for the dns sd module

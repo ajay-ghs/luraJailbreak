@@ -8,7 +8,7 @@ import (
 	"io"
 	"net/http"
 
-	"github.com/ajay-ghs/luraJailbreak/encoding"
+	"github.com/ajay-ghs/luraJailbreak/v2/encoding"
 )
 
 // HTTPResponseParser defines how the response is parsed from http.Response to Response object

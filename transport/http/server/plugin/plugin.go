@@ -9,9 +9,9 @@ import (
 	"plugin"
 	"strings"
 
-	"github.com/ajay-ghs/luraJailbreak/logging"
-	luraplugin "github.com/ajay-ghs/luraJailbreak/plugin"
-	"github.com/ajay-ghs/luraJailbreak/register"
+	"github.com/ajay-ghs/luraJailbreak/v2/logging"
+	luraplugin "github.com/ajay-ghs/luraJailbreak/v2/plugin"
+	"github.com/ajay-ghs/luraJailbreak/v2/register"
 )
 
 var serverRegister = register.New()

@@ -5,8 +5,8 @@ package proxy
 import (
 	"context"
 
-	"github.com/ajay-ghs/luraJailbreak/config"
-	"github.com/ajay-ghs/luraJailbreak/logging"
+	"github.com/ajay-ghs/luraJailbreak/v2/config"
+	"github.com/ajay-ghs/luraJailbreak/v2/logging"
 )
 
 // NewFilterHeadersMiddleware returns a middleware with or without a header filtering

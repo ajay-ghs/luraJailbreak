@@ -8,7 +8,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ajay-ghs/luraJailbreak/config"
+	"github.com/ajay-ghs/luraJailbreak/v2/config"
 )
 
 func TestNewConcurrentMiddleware_ok(t *testing.T) {

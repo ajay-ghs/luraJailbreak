@@ -8,7 +8,7 @@ import (
 	"math"
 	"testing"
 
-	"github.com/ajay-ghs/luraJailbreak/config"
+	"github.com/ajay-ghs/luraJailbreak/v2/config"
 )
 
 func ExampleNewRoundRobinLB() {

@@ -10,10 +10,10 @@ import (
 	"fmt"
 	"math"
 
-	"github.com/ajay-ghs/luraJailbreak/backoff"
-	"github.com/ajay-ghs/luraJailbreak/config"
-	"github.com/ajay-ghs/luraJailbreak/logging"
-	"github.com/ajay-ghs/luraJailbreak/proxy"
+	"github.com/ajay-ghs/luraJailbreak/v2/backoff"
+	"github.com/ajay-ghs/luraJailbreak/v2/config"
+	"github.com/ajay-ghs/luraJailbreak/v2/logging"
+	"github.com/ajay-ghs/luraJailbreak/v2/proxy"
 
 	"golang.org/x/sync/errgroup"
 )

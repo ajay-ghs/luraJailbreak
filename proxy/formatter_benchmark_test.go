@@ -8,7 +8,7 @@ import (
 	"strconv"
 	"testing"
 
-	"github.com/ajay-ghs/luraJailbreak/config"
+	"github.com/ajay-ghs/luraJailbreak/v2/config"
 )
 
 func BenchmarkEntityFormatter_allowFilter(b *testing.B) {

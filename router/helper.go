@@ -5,8 +5,8 @@ package router
 import (
 	"net/http"
 
-	"github.com/ajay-ghs/luraJailbreak/config"
-	"github.com/ajay-ghs/luraJailbreak/proxy"
+	"github.com/ajay-ghs/luraJailbreak/v2/config"
+	"github.com/ajay-ghs/luraJailbreak/v2/proxy"
 )
 
 func IsValidSequentialEndpoint(endpoint *config.EndpointConfig) bool {

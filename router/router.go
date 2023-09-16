@@ -8,7 +8,7 @@ package router
 import (
 	"context"
 
-	"github.com/ajay-ghs/luraJailbreak/config"
+	"github.com/ajay-ghs/luraJailbreak/v2/config"
 )
 
 // Router sets up the public layer exposed to the users

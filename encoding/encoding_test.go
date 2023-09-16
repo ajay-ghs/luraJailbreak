@@ -8,7 +8,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/ajay-ghs/luraJailbreak/register"
+	"github.com/ajay-ghs/luraJailbreak/v2/register"
 )
 
 func TestNoOpDecoder(t *testing.T) {
